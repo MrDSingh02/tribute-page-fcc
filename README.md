@@ -3,7 +3,7 @@
 
 ## Build a Tribute Page
 
->Objective: Build an app that is functionally similar to [Tribute Page.](https://tribute-page.freecodecamp.rocks,_blank)
+>Objective: Build an app that is functionally similar to [Tribute Page.](https://tribute-page.freecodecamp.rocks)
 
 ## User Stories:
 
